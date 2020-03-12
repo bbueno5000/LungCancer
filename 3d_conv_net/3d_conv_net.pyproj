@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9cf94bb5-226c-4de7-b7b1-fad1d7040698</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_3d_conv_net.py</StartupFile>
+    <StartupFile>conv_net.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_3d_conv_net.py" />
+    <Compile Include="conv_net.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|3d_conv_net_env" />
