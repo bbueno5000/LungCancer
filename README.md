@@ -1,4 +1,4 @@
-# 3D Conv Net
+# Lung Cancer
 
 One Paragraph of project description goes here
 
